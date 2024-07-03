@@ -1,6 +1,6 @@
 # SOLANA Staking Platform
 
-Welcome to mine SOLANA Staking Platform! This project is built using Nuxt.js, a powerful framework based on Vue.js.
+Welcome to my SOLANA Staking Platform! This project is built using Nuxt.js, a powerful framework based on Vue.js.
 
 ## Setup
 
